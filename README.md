@@ -22,7 +22,9 @@ First point of comparison was the teams win percentage and how much of an effect
 This portion of the analysis was to see if there were any consistent trends that existed between the average age of a team and the teams win rate. The main reason we asked this was to see if a teams performance could be tied to the age of a team.
 
 ### Team Financials versus Wins
--Mateus-
+To analyse the financial influence over the performance, we will create two graphs:
+- A scatter plot to analyse the correlation between the payroll and the number of wins of each team.
+- A bar plot and a line plot overlayed to compare the average income, payroll and wins.
 
 ### Location versus Wins
 Additional data used to answer this question includes
