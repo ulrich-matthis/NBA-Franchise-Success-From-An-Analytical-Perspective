@@ -10,7 +10,8 @@ The aim of this project was to examine how much success franchises in the NBA ar
 Our work was done in a jupyter notebook using python. Libraries used include Pandas, matplotlib, seaborn, numpy, scipy.stats and bokeh. Multiple visiualizations were done for each question to illustrate our findings. Graphs are shown in notebook and saved in the 'Outputs' folder.
 
 ## Data
--Ulrich-
+Data compilation was completed using the website basketball-reference to help compile season to season data for all NBA franchises. runrepeat.com was used to provide 
+income data for each team over the timeframe of our study and hoopshype was also used for salary data which will be a focal point of team financials versus wins.
 
 ## Analysis
 
