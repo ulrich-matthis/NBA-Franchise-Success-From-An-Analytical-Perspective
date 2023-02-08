@@ -18,7 +18,7 @@ Our work was done in a jupyter notebook using python. Libraries used include Pan
 First point of comparison was the teams win percentage and how much of an effect that had on yearly attendance for that team. The primary question for this comparison was if team performance for the season, had any effect on the amount of people attending games. 
 	
 ### Player Age versus Wins
--Joe- 
+This portion of the analysis was to see if there were any consistent trends that existed between the average age of a team and the teams win rate. The main reason we asked this was to see if a teams performance could be tied to the age of a team.
 
 ### Team Financials versus Wins
 -Mateus-
